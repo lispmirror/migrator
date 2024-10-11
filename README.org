@@ -1,0 +1,7 @@
+* migrator
+
+Simple declarative schema migration for SQLite
+
+| source | git:https://github.com/rudolfochrist/migrator.git |
+| commit | 0.2 |
+| systems | migrator |
